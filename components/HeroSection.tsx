@@ -54,12 +54,12 @@ export default function HeroSection() {
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full py-16 sm:py-20 md:py-24 lg:py-32">
         <div className="max-w-5xl mx-auto text-center">
-          <div className="inline-flex items-center space-x-2 bg-white/90 backdrop-blur-sm px-4 py-2 sm:px-6 sm:py-3 rounded-full mb-8 sm:mb-10 md:mb-12 shadow-sm">
+          <div className="inline-flex items-center space-x-2 bg-white/90 backdrop-blur-sm px-4 py-2 sm:px-6 sm:py-3 rounded-full mb-5 sm:mb-10 md:mb-12 shadow-sm">
             <i className="ri-verified-badge-line text-rose-600 text-base sm:text-lg"></i>
             <span className="text-sm sm:text-base font-medium text-gray-700">Trusted by 500+ couples across India</span>
           </div>
 
-          <div className="inline-flex items-center space-x-2 bg-rose-100 px-4 py-2 rounded-full mb-8 sm:mb-10">
+          <div className="inline-flex items-center space-x-2 bg-rose-100 px-4  py-2 sm:py-3 ml-3 sm:ml-5 rounded-full mb-8 sm:mb-10">
             <i className="ri-heart-line text-rose-600"></i>
             <span className="text-rose-700 font-medium">Relationship & Marriage Consultancy</span>
           </div>

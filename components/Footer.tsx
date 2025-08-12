@@ -65,7 +65,7 @@ export default function Footer() {
         
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Circle of Life by Rekha Gupta. All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Circle of Life by Rekha Gupta. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
