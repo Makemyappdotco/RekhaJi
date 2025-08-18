@@ -16,25 +16,25 @@ export default function ServicesSection() {
         { 
           name: "Breakup Healing", 
           description: "Compassionate support to heal and move forward",
-          link: "https://topmate.io/rekha_gupta/breakup-healing",
+          link: "http://topmate.io/circleoflife/1672075",
           image: "https://readdy.ai/api/search-image?query=soft%20healing%20heart%20with%20gentle%20sunlight%20peaceful%20nature%20background%20emotional%20recovery%20warm%20comforting%20colors%20minimalist%20design%20clean%20simple&width=300&height=200&seq=breakup-healing-new&orientation=landscape"
         },
         { 
           name: "Relationship Health Check", 
           description: "Evaluate your relationship's strengths and growth areas",
-          link: "https://topmate.io/rekha_gupta/health-check",
+          link: "http://topmate.io/circleoflife/1672098",
           image: "https://readdy.ai/api/search-image?query=two%20hands%20holding%20heart%20symbol%20soft%20pink%20background%20relationship%20wellness%20gentle%20pastel%20colors%20caring%20supportive%20atmosphere%20clean%20minimal&width=300&height=200&seq=health-check-new&orientation=landscape"
         },
         { 
           name: "Marriage Readiness", 
           description: "Discover if you're ready for the next step",
-          link: "https://topmate.io/rekha_gupta/marriage-readiness",
+          link: "http://topmate.io/circleoflife/1672099",
           image: "https://readdy.ai/api/search-image?query=wedding%20rings%20soft%20rose%20petals%20romantic%20pastel%20pink%20background%20elegant%20minimalist%20style%20marriage%20preparation%20clean%20simple%20design&width=300&height=200&seq=marriage-readiness-new&orientation=landscape"
         },
         { 
           name: "Conflict Resolution", 
           description: "Learn healthy communication for dating couples",
-          link: "https://topmate.io/rekha_gupta/conflict-resolution",
+          link: "http://topmate.io/circleoflife/1672100",
           image: "https://readdy.ai/api/search-image?query=peaceful%20dove%20olive%20branch%20soft%20gradient%20background%20harmony%20peace%20gentle%20pastel%20colors%20conflict%20resolution%20symbolism%20clean%20minimal&width=300&height=200&seq=conflict-resolution-new&orientation=landscape"
         }
       ]
@@ -49,25 +49,25 @@ export default function ServicesSection() {
         { 
           name: "Love Marriage Support", 
           description: "Navigate family dynamics and gain acceptance",
-          link: "https://topmate.io/rekha_gupta/love-marriage",
+          link: "http://topmate.io/circleoflife/1672101",
           image: "https://readdy.ai/api/search-image?query=family%20gathering%20warm%20embrace%20golden%20sunset%20background%20love%20marriage%20acceptance%20warm%20yellow%20amber%20colors%20unity%20harmony%20clean%20minimal&width=300&height=200&seq=love-marriage-new&orientation=landscape"
         },
         { 
           name: "Compatibility Check", 
           description: "Ensure deep connection before commitment",
-          link: "https://topmate.io/rekha_gupta/compatibility",
+          link: "http://topmate.io/circleoflife/1672104",
           image: "https://readdy.ai/api/search-image?query=puzzle%20pieces%20fitting%20together%20soft%20amber%20background%20compatibility%20connection%20warm%20golden%20colors%20perfect%20match%20symbolism%20clean%20design&width=300&height=200&seq=compatibility-new&orientation=landscape"
         },
         { 
           name: "Hidden Issues Discovery", 
           description: "Uncover challenges early for stronger foundation",
-          link: "https://topmate.io/rekha_gupta/hidden-issues",
+          link: "http://topmate.io/circleoflife/1672105",
           image: "https://readdy.ai/api/search-image?query=magnifying%20glass%20revealing%20treasure%20warm%20golden%20light%20discovery%20insight%20soft%20amber%20background%20wisdom%20clarity%20clean%20minimal%20style&width=300&height=200&seq=hidden-issues-new&orientation=landscape"
         },
         { 
           name: "Communication Strengthening", 
           description: "Develop skills that make marriages thrive",
-          link: "https://topmate.io/rekha_gupta/communication",
+          link: "http://topmate.io/circleoflife/1672106",
           image: "https://readdy.ai/api/search-image?query=speech%20bubbles%20connecting%20heart%20center%20communication%20warm%20orange%20gradient%20background%20understanding%20connection%20clean%20minimal%20design&width=300&height=200&seq=communication-new&orientation=landscape"
         }
       ]
@@ -82,31 +82,31 @@ export default function ServicesSection() {
         { 
           name: "Newlywed Adjustment", 
           description: "Smooth transition into married life together",
-          link: "https://topmate.io/rekha_gupta/newlywed",
+          link: "http://topmate.io/circleoflife/1672108",
           image: "https://readdy.ai/api/search-image?query=cozy%20home%20heart%20symbol%20soft%20mint%20green%20background%20newlywed%20happiness%20peaceful%20emerald%20colors%20warm%20domestic%20harmony%20clean%20minimal&width=300&height=200&seq=newlywed-new&orientation=landscape"
         },
         { 
           name: "Partner Conflict Resolution", 
           description: "Transform disagreements into deeper understanding",
-          link: "https://topmate.io/rekha_gupta/partner-conflict",
+          link: "http://topmate.io/circleoflife/1672111",
           image: "https://readdy.ai/api/search-image?query=bridge%20connecting%20two%20sides%20peaceful%20water%20soft%20teal%20background%20resolution%20unity%20harmony%20peace%20clean%20minimal%20design&width=300&height=200&seq=partner-conflict-new&orientation=landscape"
         },
         { 
           name: "Family Harmony", 
           description: "Create peace between both families",
-          link: "https://topmate.io/rekha_gupta/family-consultancy",
+          link: "http://topmate.io/circleoflife/1672112",
           image: "https://readdy.ai/api/search-image?query=multiple%20hands%20joining%20circle%20soft%20emerald%20background%20family%20unity%20peaceful%20mint%20colors%20togetherness%20support%20clean%20minimal%20style&width=300&height=200&seq=family-consultancy-new&orientation=landscape"
         },
         { 
           name: "Pre-Pregnancy Readiness", 
           description: "Prepare emotionally for parenthood journey",
-          link: "https://topmate.io/rekha_gupta/pre-pregnancy",
+          link: "http://topmate.io/circleoflife/1672119",
           image: "https://readdy.ai/api/search-image?query=baby%20footprints%20soft%20clouds%20gentle%20sunlight%20pregnancy%20preparation%20soft%20mint%20green%20background%20hope%20new%20beginnings%20clean%20minimal&width=300&height=200&seq=pre-pregnancy-new&orientation=landscape"
         },
         { 
           name: "Post-Pregnancy Support", 
           description: "Strengthen partnership through new parenthood",
-          link: "https://topmate.io/rekha_gupta/post-pregnancy",
+          link: "http://topmate.io/circleoflife/1672120",
           image: "https://readdy.ai/api/search-image?query=protective%20umbrella%20family%20silhouette%20soft%20teal%20background%20parental%20support%20nurturing%20emerald%20colors%20care%20protection%20clean%20minimal&width=300&height=200&seq=post-pregnancy-new&orientation=landscape"
         }
       ]
