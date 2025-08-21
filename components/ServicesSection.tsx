@@ -98,7 +98,7 @@ export default function ServicesSection() {
           image: "https://readdy.ai/api/search-image?query=multiple%20hands%20joining%20circle%20soft%20emerald%20background%20family%20unity%20peaceful%20mint%20colors%20togetherness%20support%20clean%20minimal%20style&width=300&height=200&seq=family-consultancy-new&orientation=landscape"
         },
         { 
-          name: "Pre-Pregnancy Readiness", 
+          name: "Pre-Pregnancy Readiness",  
           description: "Prepare emotionally for parenthood journey",
           link: "http://topmate.io/circleoflife/1672119",
           image: "https://readdy.ai/api/search-image?query=baby%20footprints%20soft%20clouds%20gentle%20sunlight%20pregnancy%20preparation%20soft%20mint%20green%20background%20hope%20new%20beginnings%20clean%20minimal&width=300&height=200&seq=pre-pregnancy-new&orientation=landscape"
