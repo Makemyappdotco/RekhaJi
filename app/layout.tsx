@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Pacifico, Poppins } from "next/font/google";
 import "./globals.css";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/next"
 
 const pacifico = Pacifico({
   weight: '400',
@@ -45,6 +47,8 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} ${pacifico.variable} ${poppins.variable} antialiased font-sans`}
       >
         {children}
+        <Analytics />
+        <SpeedInsights/>
       </body>
     </html>
   );
