@@ -56,7 +56,7 @@ export default function HeroSection() {
         <div className="max-w-5xl mx-auto text-center">
           <div className="inline-flex items-center space-x-2 bg-white/90 backdrop-blur-sm px-4 py-2 sm:px-6 sm:py-3 rounded-full mb-5 sm:mb-10 md:mb-12 shadow-sm">
             <i className="ri-verified-badge-line text-rose-600 text-base sm:text-lg"></i>
-            <span className="text-sm sm:text-base font-medium text-gray-700">Trusted by 500+ couples across India</span>
+            <span className="text-sm sm:text-base font-medium text-gray-700">Trusted by 100+ couples across India</span>
           </div>
 
           <div className="inline-flex items-center space-x-2 bg-rose-100 px-4  py-2 sm:py-3 ml-3 sm:ml-5 rounded-full mb-8 sm:mb-10">
@@ -64,7 +64,7 @@ export default function HeroSection() {
             <span className="text-rose-700 font-medium">Relationship & Marriage Consultancy</span>
           </div>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-800 mb-6 leading-[1.1] sm:leading-[1.15] md:leading-[1.2] max-w-5xl mx-auto">
+          <h1 className="text-3xl md:my-2 sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-800 mb-6 leading-[1.1] sm:leading-[1.2] md:leading-[1.5] max-w-5xl mx-auto">
             Turning <span className="text-rose-600">Relationship</span> Confusion<br className="hidden sm:block" /> Into <span className="text-rose-600">Clarity</span>
           </h1>
 
@@ -87,13 +87,13 @@ export default function HeroSection() {
 
           <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 mb-16 sm:mb-20 md:mb-24 justify-center">
             <a 
-              href="https://topmate.io/rekha_gupta" 
+              href="https://topmate.io/circleoflife/1671735" 
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-rose-500 text-white px-10 py-4 sm:px-12 sm:py-5 rounded-full text-lg sm:text-xl font-semibold hover:bg-rose-600 transition-all duration-300 shadow-xl hover:shadow-2xl cursor-pointer text-center whitespace-nowrap transform hover:scale-105"
             >
               <span className="flex items-center justify-center space-x-2">
-                <span>Book a Session</span>
+                <span >Claim FREE 15 Min Call</span>
                 <i className="ri-arrow-right-line group-hover:translate-x-1 transition-transform"></i>
               </span>
             </a>
@@ -110,7 +110,7 @@ export default function HeroSection() {
 
           <div className="flex flex-wrap items-center justify-center gap-6 sm:gap-12 text-gray-600">
             <div className="text-center">
-              <div className="text-2xl sm:text-3xl font-bold text-rose-600">500+</div>
+              <div className="text-2xl sm:text-3xl font-bold text-rose-600">100+</div>
               <div className="text-sm sm:text-base">Happy Couples</div>
             </div>
             <div className="w-px h-8 sm:h-10 bg-gray-300"></div>

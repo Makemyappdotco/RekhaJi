@@ -21,12 +21,12 @@ export default function FinalCTA() {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a 
-            href="https://topmate.io/rekha_gupta"
+            href="https://topmate.io/circleoflife/1671735"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-rose-600 px-8 py-4 rounded-full text-lg font-bold hover:bg-gray-100 transition-all duration-300 shadow-lg hover:shadow-xl cursor-pointer whitespace-nowrap"
           >
-            Book a Session Now
+            Claim FREE 15 Min Call
           </a>
           <a 
             href="#services"

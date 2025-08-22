@@ -1,5 +1,5 @@
 'use client';
-
+import Logo from "./assets/white logo.png"
 export default function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-16">
@@ -7,13 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-8 h-8 bg-rose-500 rounded-full flex items-center justify-center">
-                <span className="text-white font-bold">C</span>
-              </div>
-              <div>
-                <h3 className="font-[\'Pacifico\'] text-xl text-rose-400">Circle of Life</h3>
-                <p className="text-sm text-gray-400">by Rekha Gupta</p>
-              </div>
+             <img src={Logo.src} alt="footer" className="w-[200px]" />
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Helping couples and families build stronger, happier relationships through culturally aware counseling and guidance.

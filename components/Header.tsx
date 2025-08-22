@@ -1,8 +1,8 @@
 
 'use client';
-
 import { useState } from 'react';
 import Link from 'next/link';
+import Logo from "./assets/red logo.png"
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -22,7 +22,7 @@ export default function Header() {
           {/* Logo */}
           <div className="flex-shrink-0">
             <Link href="/" className="font-['Pacifico'] text-2xl text-rose-500">
-              Circle of Life
+              <img src={Logo.src} alt='Not found' className='w-[150px] md:w-[170px]' />
             </Link>
           </div>
 
@@ -42,12 +42,12 @@ export default function Header() {
           {/* Desktop CTA Button */}
           <div className="hidden md:block">
             <a
-              href="https://topmate.io/rekha_gupta"
+              href="https://topmate.io/circleoflife/1671735"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-rose-500 text-white px-6 py-2 rounded-full hover:bg-rose-600 transition-colors cursor-pointer whitespace-nowrap"
             >
-              Book a Session
+              Claim FREE 15 Min Call
             </a>
           </div>
 
@@ -96,13 +96,13 @@ export default function Header() {
               </Link>
               <div className="px-3 py-2">
                 <a
-                  href="https://topmate.io/rekha_gupta"
+                  href="https://topmate.io/circleoflife/1671735"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-rose-500 text-white px-4 py-2 rounded-full hover:bg-rose-600 transition-colors cursor-pointer whitespace-nowrap text-sm font-medium inline-block"
                   onClick={closeMenu}
                 >
-                  Book a Session
+                  Claim FREE 15 Min Call
                 </a>
               </div>
             </div>
